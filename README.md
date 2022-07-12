@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @khoaden
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-khoaden/khoaden is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=2500&lines=Hi+I'm+Minh+Khoa;Welcome+to+my+profile&font=Fira%20Code&center=true&width=380&height=50">
+</p>
+
+
